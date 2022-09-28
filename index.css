@@ -1,0 +1,10 @@
+#canvas {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+#textarea{
+    width: 500px;
+    height: auto;
+}
